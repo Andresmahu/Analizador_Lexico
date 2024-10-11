@@ -89,6 +89,7 @@ word_reserved={
     'self':'self',
     'print': 'print',
     'input':'input',
+    'len':'len'
 }
 #metodos
 methods={
